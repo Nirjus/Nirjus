@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding, Development
 - 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on ... collaborate with my developer friends
-- 📫 How to reach me ...  
+- 📫 How to reach me ...  https://github.com/Nirjus
 
 <!---
 Nirjus/Nirjus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
