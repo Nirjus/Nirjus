@@ -54,19 +54,20 @@
 
 ---
 
-### 🎉 Fun Animation Zone: 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border:0; border-radius: 10px;" width="400" alt="UI/UX Animation">
-</p>
-
----
-
 ### 🏆 My GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nirjus&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirjus&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+### 🎉 Fun Animation Zone: 
+<p align="center">
+ <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="border:0; border-radius: 10px;" width="400" alt="Roblox Game Animation">
+
 </p>
 
 ---
@@ -82,9 +83,3 @@
 </p>
 
 <div align="center">✨ **Happy Coding!** ✨</div>
-
-
-<!---
-Nirjus/Nirjus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
